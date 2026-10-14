@@ -1,0 +1,73 @@
+Date,Region,Category,Revenue,Active_Users,Churned_Customers
+2026-01-15,Central,Electronics,80705.05,83,3
+2026-01-15,Central,Home & Living,46655.07,50,2
+2026-01-15,Central,Fashion,48589.26,42,1
+2026-01-15,North,Electronics,66139.2,82,3
+2026-01-15,North,Home & Living,43057.97,54,3
+2026-01-15,North,Fashion,38260.42,43,1
+2026-01-15,South,Electronics,77176.97,88,7
+2026-01-15,South,Home & Living,44401.36,49,2
+2026-01-15,South,Fashion,45957.25,57,5
+2026-01-15,West,Electronics,81628.28,94,6
+2026-01-15,West,Home & Living,48729.72,68,4
+2026-01-15,West,Fashion,43729.39,56,4
+2026-02-15,Central,Electronics,74139.31,94,6
+2026-02-15,Central,Home & Living,54059.39,82,7
+2026-02-15,Central,Fashion,43746.73,44,3
+2026-02-15,North,Electronics,74898.26,100,4
+2026-02-15,North,Home & Living,48948.17,73,4
+2026-02-15,North,Fashion,40488.57,45,3
+2026-02-15,South,Electronics,75666.99,115,7
+2026-02-15,South,Home & Living,46143.12,50,4
+2026-02-15,South,Fashion,44580.35,47,4
+2026-02-15,West,Electronics,85935.79,119,9
+2026-02-15,West,Home & Living,54958.37,51,2
+2026-02-15,West,Fashion,49596.27,66,5
+2026-03-15,Central,Electronics,78002.66,112,3
+2026-03-15,Central,Home & Living,52247.65,58,2
+2026-03-15,Central,Fashion,53270.48,57,2
+2026-03-15,North,Electronics,72391.32,82,4
+2026-03-15,North,Home & Living,50041.17,46,3
+2026-03-15,North,Fashion,42793.34,43,1
+2026-03-15,South,Electronics,85135.54,107,4
+2026-03-15,South,Home & Living,51326.98,70,5
+2026-03-15,South,Fashion,50507.72,64,1
+2026-03-15,West,Electronics,95813.56,137,11
+2026-03-15,West,Home & Living,65710.54,68,5
+2026-03-15,West,Fashion,51902.75,62,5
+2026-04-15,Central,Electronics,94474.58,105,5
+2026-04-15,Central,Home & Living,60524.85,62,3
+2026-04-15,Central,Fashion,59732.49,69,4
+2026-04-15,North,Electronics,80845.18,104,4
+2026-04-15,North,Home & Living,56771.24,67,3
+2026-04-15,North,Fashion,48615.53,47,1
+2026-04-15,South,Electronics,86655.18,94,4
+2026-04-15,South,Home & Living,55783.48,80,4
+2026-04-15,South,Fashion,55527.1,55,1
+2026-04-15,West,Electronics,108370.46,133,7
+2026-04-15,West,Home & Living,70718.08,83,7
+2026-04-15,West,Fashion,55677.62,65,4
+2026-05-15,Central,Electronics,94049.89,134,8
+2026-05-15,Central,Home & Living,65177.83,85,6
+2026-05-15,Central,Fashion,61397.78,92,4
+2026-05-15,North,Electronics,78511.56,67,3
+2026-05-15,North,Home & Living,53122.67,69,2
+2026-05-15,North,Fashion,47700.59,45,4
+2026-05-15,South,Electronics,83716.35,82,2
+2026-05-15,South,Home & Living,63555.48,77,4
+2026-05-15,South,Fashion,53293.66,90,6
+2026-05-15,West,Electronics,100139.94,130,5
+2026-05-15,West,Home & Living,76492.96,87,6
+2026-05-15,West,Fashion,62911.79,61,4
+2026-06-15,Central,Electronics,110900.82,109,4
+2026-06-15,Central,Home & Living,71729.87,74,6
+2026-06-15,Central,Fashion,61799.96,83,6
+2026-06-15,North,Electronics,93739.25,114,6
+2026-06-15,North,Home & Living,55548.6,74,5
+2026-06-15,North,Fashion,48185.05,55,2
+2026-06-15,South,Electronics,108514.22,174,9
+2026-06-15,South,Home & Living,60697.36,57,4
+2026-06-15,South,Fashion,53422.95,72,4
+2026-06-15,West,Electronics,120793.46,187,15
+2026-06-15,West,Home & Living,80879.62,97,5
+2026-06-15,West,Fashion,62376.52,62,3
